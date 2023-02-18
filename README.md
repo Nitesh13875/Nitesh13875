@@ -1,4 +1,4 @@
-Aspiring Aspiring Data-Scientist
+Aspiring Data-Scientist
 
 <!---
 Nitesh13875/Nitesh13875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
